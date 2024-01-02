@@ -1,2 +1,2 @@
 # basicDataScience
-My early days of getting hands on Python for Data Science
+Welcome to the Python Data Science Basics repository! This space houses my practice exercises designed for mastering Python basics tailored specifically for data science. The content spans essential Python concepts, with a particular focus on leveraging basic functionalities of the NumPy and Pandas libraries. Organized into folders, the exercises cover fundamental Python data science topics, NumPy practice, and basic Pandas library methods. Feel free to clone the repository, explore the examples, and use them to enhance your understanding of Python for data science. Contributions are encouraged, so fork the repository and submit pull requests to make this resource even more valuable.
